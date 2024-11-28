@@ -1,4 +1,4 @@
-# **Course Management System**
+# **Course Registration Application**
 
 ## **Overview**
 This project is a **Course Management System** built with a **React** frontend and a **Spring Boot** backend. It provides a platform where students, administrators, and faculty can manage courses efficiently. The backend is secured using **JWT (JSON Web Tokens)** for authentication and role-based access control.
@@ -161,4 +161,4 @@ This project is a **Course Management System** built with a **React** frontend a
 ---
 
 ## **License**
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+© 2024 Priyansh Rai, IIITB. All Rights Reserved
